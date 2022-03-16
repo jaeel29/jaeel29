@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Jaber El-Ferkh</h1>
 
-- 🔭 I’m UX/UI Designer
+- 🏀 I’m UX/UI Designer
+
+- 👨🏻‍💻 I'm Front-end Developer
+
 
 <!--
 **jaeel29/jaeel29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
