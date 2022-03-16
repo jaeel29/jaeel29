@@ -1,4 +1,6 @@
-### Hi 👋 I'm Jaber El-Ferkh
+<!-- ### Hi 👋 I'm Jaber El-Ferkh -->
+
+<h1 align="center">Hi 👋, I'm Jaber El-Ferkh</h1>
 
 - 🔭 I’m UX/UI Designer
 
