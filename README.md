@@ -12,6 +12,7 @@
 
 ## Design Tools:
 
+<a href="#" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/figma.svg" alt="jaberelferkh" height="30" width="40" /></a>
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![photoshop](https://img.shields.io/badge/photoshop-00C4CC?style=for-the-badge&logo=photoshop&logoColor=white)
