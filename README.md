@@ -30,7 +30,8 @@
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/photoshop-00C4CC?style=for-the-badge&logo=photoshop&logoColor=white)
+![photoshop](https://img.shields.io/badge/photoshop-00C4CC?style=for-the-badge&logo=photoshop&logoColor=white)
+![illustrator](https://img.shields.io/badge/illustrator-00C4CC?style=for-the-badge&logo=illustrator&logoColor=white)
 
 
 ## 🔗 Links
