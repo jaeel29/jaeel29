@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaber Elferkh</h1>
-<h3 align="center">A passionate designer & frontend developer from Morocco</h3>
+<h3 align="center">A passionate Designer & Frontend developer from Morocco</h3>
 
 - 🌱 I’m currently learning **Javacript & Typescript**
 
