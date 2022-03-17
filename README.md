@@ -16,7 +16,7 @@
 <a href="https://instagram.com/jaber.elferkh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaber.elferkh" height="30" width="40" /></a>
 <a href="https://dribbble.com/elferkhjaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="elferkhjaber" height="30" width="40" /></a>
 <a href="https://www.behance.net/jaelferkh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jaelferkh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jaber el-ferkh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jaber el-ferkh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQPzmr-iLPf5mMIwpJbk7oQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jaber el-ferkh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
