@@ -1,12 +1,21 @@
 <!-- ### Hi 👋 I'm Jaber El-Ferkh -->
 
-<h1 align="center">Hi 👋, I'm Jaber El-Ferkh</h1>
+<h1 align="left">Hi 👋, I'm Jaber El-Ferkh</h1>
 
-- 🏀 I’m UX/UI Designer
+- 🏀 UX/UI Designer
 
-- 👨🏻‍💻 I'm Front-end Developer
+- 👨🏻‍💻 Front-end Developer
 
-## 🛠️ Skills
+
+
+
+
+## Design Tools:
+
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![photoshop](https://img.shields.io/badge/photoshop-00C4CC?style=for-the-badge&logo=photoshop&logoColor=white)
+![illustrator](https://img.shields.io/badge/illustrator-00C4CC?style=for-the-badge&logo=illustrator&logoColor=white)
 
 ### Languages
 
@@ -26,19 +35,19 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Design Tools
-
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![photoshop](https://img.shields.io/badge/photoshop-00C4CC?style=for-the-badge&logo=photoshop&logoColor=white)
-![illustrator](https://img.shields.io/badge/illustrator-00C4CC?style=for-the-badge&logo=illustrator&logoColor=white)
 
 
-## 🔗 Links
+## Links:
+<p align="left">
+<a href="https://dribbble.com/elferkhjaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jaberelferkh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaber-el-ferkh-91bbb9193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaberelferkh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jaber.elferkh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaberelferkh" height="30" width="40" /></a>
+</p>
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://dribbble.com/elferkhjaber)
+
+<!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://dribbble.com/elferkhjaber)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jaber-el-ferkh-91bbb9193/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaber.elferkh/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaber.elferkh/) -->
 
 
 <!--
