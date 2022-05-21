@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jaber Elferkh</h1>
-<h3 align="center">A passionate Designer & Frontend Developer</h3>
+### Hi, I'm Jaber El-Ferkh, Designer & Frontend Developer 👨‍💻
 
-- 👨‍💻 All of my projects are available at [https://dribbble.com/elferkhjaber](https://dribbble.com/elferkhjaber)
+- 👨🏻‍💻 I’m available for collaborations on Design and Frontend.
+- 💬 Ask me about anything on Design & Frontend Development.
 
-- 💬 Ask me about **everything on design and frontend development**
+## You can reach me here 🌎
 
-- 📫 How to reach me **elferkhjaber@gmail.com**
+🏡 [dribbble][dribbble] **| or |**
+👔 [linkedin][linkedin]
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:d1fe8777-ea8e-36e3-a65c-d814594efed8](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:d1fe8777-ea8e-36e3-a65c-d814594efed8)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[dribbble]: 'https://dribbble.com/elferkhjaber'
+[linkedin]: https://www.linkedin.com/in/jaber-el-ferkh-91bbb9193/
+[adobe]: https://adobe.com
+[react]: http://reactjs.org
+[gatsby]: https://gatsbyjs.org
+[styled]: https://styled-components.com
+[jamstack]: https://jamstack.org
+[murphee]: https://murphee.netlify.app
+[svelte]: https://svelte.dev
+[tailwind]: https://tailwindcss.com
+[instagram]: https://www.instagram.com/jaber.elferkh/
