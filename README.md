@@ -1,6 +1,6 @@
 ### Hi, I'm Jaber El-Ferkh, Designer & Frontend Developer 👨‍💻
 
-- 👨🏻‍💻 I’m available for collaborations on Design and Frontend.
+- 👨🏻‍💻 I’m available for collaborations on Design and Frontend Developement.
 - 💬 Ask me about anything on Design & Frontend Development.
 
 ## You can reach me here 🌎
