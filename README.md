@@ -5,11 +5,11 @@
 
 ## You can reach me here 🌎
 
-🏡 [dribbble][dribbble] **| or |**
-👔 [linkedin][linkedin]
+🏡 [dribbble][Dribbble] **| or |**
+👔 [linkedin][Linkedin]
 
-[dribbble]: 'https://dribbble.com/elferkhjaber'
-[linkedin]: https://www.linkedin.com/in/jaber-el-ferkh-91bbb9193/
+[Dribbble]: https://dribbble.com/elferkhjaber
+[Linkedin]: https://www.linkedin.com/in/jaber-el-ferkh-91bbb9193/
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
