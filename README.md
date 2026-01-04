@@ -9,7 +9,7 @@
 👔 [linkedin][Linkedin]
 
 [Dribbble]: https://dribbble.com/elferkhjaber
-[Website]: https://www.jaberel.com/
+[Website]: https://www.jaberelferkh.com/
 [Linkedin]: https://www.linkedin.com/in/jaber-el-ferkh-91bbb9193/
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
